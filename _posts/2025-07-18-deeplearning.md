@@ -30,5 +30,3 @@ Khoá Deep Learning bao gồm 5 course series:
 Một layer trong Neural Network sẽ gồm nhiều Neural kết hợp để nhận dữ liệu từ layer trước đó là trả ra kết quả cho layer tính toán.
 
 Nhiệm vụ của chúng ta là đi tìm tham số của các Neural này để kết quả cho ra chính xác nhất có thể. Dưới đây là hình ảnh một Neural Network dự đoán giá nhà từ đầu vào là thông tin của ngôi nhà nó.
-
-![Neural Network Image](/assets/img/thumb.png)
