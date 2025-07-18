@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Quá trình học Deep Learning trên Coursera
-tags: [AI, Math, Python]
+title: test
+tags: [C/C++]
 comments: true
 mathjax: true
 author: Quốc Anh
