@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Quá trình học Deep Learning trên Coursera
-subtitle: 
 tags: [AI, Math, Python]
 comments: true
 mathjax: true
